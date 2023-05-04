@@ -1,5 +1,5 @@
 # Geolocalizacion_Automatizada_Multiples-ip
-Este script permite obtener la ubicación geográfica de una lista de direcciones IP
+Este script permite obtener la ubicación geográfica de una lista de direcciones IP.
 
 
 ## Requerimientos
