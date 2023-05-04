@@ -16,6 +16,6 @@ El script imprimirá en la consola la ubicación geográfica de cada dirección 
 ### Ejemplo de uso:
 
 ```
-[+] python3 geo.py ips.txt
+[+] python3 geo.py <archivo_de_ips.txt>
 ```
 
