@@ -13,9 +13,10 @@ El script recibe como argumento un archivo de texto con una lista de direcciones
 
 El script imprimirá en la consola la ubicación geográfica de cada dirección IP  - país - ciudad. En caso de no poder obtener la ubicación, eviara el correspondiente mensaje de error.
 
-Ejemplo de uso:
+### Ejemplo de uso:
 
 ```
-python geo.py ips.txt
+[+] python3 geo.py ips.txt
+
 ```
 
