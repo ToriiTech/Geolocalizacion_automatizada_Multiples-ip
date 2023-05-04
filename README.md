@@ -17,6 +17,5 @@ El script imprimirá en la consola la ubicación geográfica de cada dirección 
 
 ```
 [+] python3 geo.py ips.txt
-
 ```
 
